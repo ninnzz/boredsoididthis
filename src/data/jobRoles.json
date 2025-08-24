@@ -1,0 +1,212 @@
+{
+  "Machine Learning Engineer": {
+    "entry": {
+      "agricultural_domain_experties": 0,
+      "architecture": 0,
+      "data_analytics": 5,
+      "data_science": 20,
+      "devops": 10,
+      "machine_learning": 40,
+      "project_delivery": 5,
+      "software_engineering": 20
+    },
+    "mid": {
+      "agricultural_domain_experties": 5,
+      "architecture": 5,
+      "data_analytics": 5,
+      "data_science": 20,
+      "devops": 15,
+      "machine_learning": 50,
+      "project_delivery": 10,
+      "software_engineering": 20
+    },
+    "senior": {
+      "agricultural_domain_experties": 10,
+      "architecture": 10,
+      "data_analytics": 10,
+      "data_science": 20,
+      "devops": 20,
+      "machine_learning": 60,
+      "project_delivery": 15,
+      "software_engineering": 25
+    },
+    "principal": {
+      "agricultural_domain_experties": 15,
+      "architecture": 20,
+      "data_analytics": 15,
+      "data_science": 20,
+      "devops": 25,
+      "machine_learning": 70,
+      "project_delivery": 20,
+      "software_engineering": 30
+    }
+  },
+  "Data Scientist": {
+    "entry": {
+      "agricultural_domain_experties": 5,
+      "architecture": 0,
+      "data_analytics": 15,
+      "data_science": 50,
+      "devops": 0,
+      "machine_learning": 20,
+      "project_delivery": 5,
+      "software_engineering": 10
+    },
+    "mid": {
+      "agricultural_domain_experties": 10,
+      "architecture": 5,
+      "data_analytics": 20,
+      "data_science": 55,
+      "devops": 5,
+      "machine_learning": 30,
+      "project_delivery": 10,
+      "software_engineering": 15
+    },
+    "senior": {
+      "agricultural_domain_experties": 15,
+      "architecture": 10,
+      "data_analytics": 25,
+      "data_science": 60,
+      "devops": 10,
+      "machine_learning": 40,
+      "project_delivery": 15,
+      "software_engineering": 20
+    },
+    "principal": {
+      "agricultural_domain_experties": 20,
+      "architecture": 20,
+      "data_analytics": 30,
+      "data_science": 70,
+      "devops": 15,
+      "machine_learning": 50,
+      "project_delivery": 20,
+      "software_engineering": 25
+    }
+  },
+  "Software Engineer": {
+    "entry": {
+      "agricultural_domain_experties": 0,
+      "architecture": 10,
+      "data_analytics": 5,
+      "data_science": 0,
+      "devops": 5,
+      "machine_learning": 0,
+      "project_delivery": 10,
+      "software_engineering": 50
+    },
+    "mid": {
+      "agricultural_domain_experties": 5,
+      "architecture": 15,
+      "data_analytics": 10,
+      "data_science": 5,
+      "devops": 10,
+      "machine_learning": 5,
+      "project_delivery": 15,
+      "software_engineering": 60
+    },
+    "senior": {
+      "agricultural_domain_experties": 10,
+      "architecture": 20,
+      "data_analytics": 15,
+      "data_science": 10,
+      "devops": 15,
+      "machine_learning": 10,
+      "project_delivery": 20,
+      "software_engineering": 70
+    },
+    "principal": {
+      "agricultural_domain_experties": 15,
+      "architecture": 25,
+      "data_analytics": 20,
+      "data_science": 15,
+      "devops": 20,
+      "machine_learning": 15,
+      "project_delivery": 25,
+      "software_engineering": 80
+    }
+  },
+  "Data Analyst": {
+    "entry": {
+      "agricultural_domain_experties": 5,
+      "architecture": 0,
+      "data_analytics": 50,
+      "data_science": 5,
+      "devops": 0,
+      "machine_learning": 0,
+      "project_delivery": 5,
+      "software_engineering": 10
+    },
+    "mid": {
+      "agricultural_domain_experties": 10,
+      "architecture": 5,
+      "data_analytics": 60,
+      "data_science": 10,
+      "devops": 5,
+      "machine_learning": 5,
+      "project_delivery": 10,
+      "software_engineering": 15
+    },
+    "senior": {
+      "agricultural_domain_experties": 15,
+      "architecture": 10,
+      "data_analytics": 70,
+      "data_science": 15,
+      "devops": 10,
+      "machine_learning": 10,
+      "project_delivery": 15,
+      "software_engineering": 20
+    },
+    "principal": {
+      "agricultural_domain_experties": 20,
+      "architecture": 15,
+      "data_analytics": 80,
+      "data_science": 20,
+      "devops": 15,
+      "machine_learning": 15,
+      "project_delivery": 20,
+      "software_engineering": 25
+    }
+  },
+  "DevOps Engineer": {
+    "entry": {
+      "agricultural_domain_experties": 0,
+      "architecture": 5,
+      "data_analytics": 5,
+      "data_science": 0,
+      "devops": 40,
+      "machine_learning": 0,
+      "project_delivery": 10,
+      "software_engineering": 20
+    },
+    "mid": {
+      "agricultural_domain_experties": 5,
+      "architecture": 10,
+      "data_analytics": 10,
+      "data_science": 5,
+      "devops": 50,
+      "machine_learning": 5,
+      "project_delivery": 15,
+      "software_engineering": 25
+    },
+    "senior": {
+      "agricultural_domain_experties": 10,
+      "architecture": 15,
+      "data_analytics": 15,
+      "data_science": 10,
+      "devops": 60,
+      "machine_learning": 10,
+      "project_delivery": 20,
+      "software_engineering": 30
+    },
+    "principal": {
+      "agricultural_domain_experties": 15,
+      "architecture": 20,
+      "data_analytics": 20,
+      "data_science": 15,
+      "devops": 70,
+      "machine_learning": 15,
+      "project_delivery": 25,
+      "software_engineering": 35
+    }
+  }
+}
