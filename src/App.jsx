@@ -75,8 +75,8 @@ export default function App() {
     radarDatasets.push({
       label: `${role2} (${level2})`,
       data: selectedSkills.map((s) => jobRoles[role2][level2][s]),
-      backgroundColor: "rgba(255,182,193,0.4)", // light red
-      borderColor: "rgba(178,34,34,0.9)", // dark red
+      backgroundColor: "rgba(3, 173, 252,0.4)", // light red
+      borderColor: "rgba(0, 87, 128,0.9)", // dark red
       borderWidth: 2
     });
   }

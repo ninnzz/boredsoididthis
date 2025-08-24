@@ -1,7 +1,7 @@
 {
   "name": "job-role-compare",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.2",
   "homepage": "https://ninnzz.github.io/boredsoididthis",
   "type": "module",
   "scripts": {
