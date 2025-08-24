@@ -70,25 +70,40 @@ body {
   margin-right: 5px;
 }
 
-.checkbox-container {
-  display: flex;
-  flex-direction: column; /* vertical list */
-  align-items: flex-start;
-  margin-bottom: 20px;
+.checkbox-container table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  font-size: 12px; /* smaller font */
+  transform: scale(0.9); /* make table about 30% smaller */
+  transform-origin: top center; /* scale from top center */
 }
 
-.checkbox-container label {
-  margin-bottom: 5px;
+.checkbox-container td {
+  padding: 4px 8px; /* reduce cell padding for compactness */
+  text-align: left;
+  font-weight: 300; /* thinner font */
+}
+
+.checkbox-container input[type="checkbox"] {
+  opacity: 0.7; /* more opaque */
+  transform: scale(0.9); /* smaller checkbox */
+  margin-right: 4px;
 }
 
 button {
   margin: 5px;
-  padding: 5px 12px;
+  padding: 4px 8px; /* ~30% smaller than before */
   cursor: pointer;
-  border: 1px solid #ccc;
-  background-color: #f3f3f3;
+  border: 1px solid #87cefa; /* light blue border */
+  background-color: #add8e6; /* light blue background */
   border-radius: 4px;
-  font-size: 14px;
+  font-size: 12px; /* smaller font size */
+  color: #333;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #87cefa; /* slightly darker on hover */
 }
 
 h1, h2, h3 {
@@ -99,4 +114,17 @@ h1, h2, h3 {
 .chart-container {
   width: 100%;
   max-width: 800px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px; /* space between image and text */
+  margin-bottom: 20px;
+}
+
+.header-img {
+  height: 50px; /* adjust size as needed */
+  width: auto;
 }
